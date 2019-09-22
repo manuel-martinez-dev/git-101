@@ -1,0 +1,17 @@
+body {
+  font-family: Helvetica;
+  margin: 0;
+}
+
+.avatar{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 80vh;
+  justify-content: center;
+}
+
+.profile{
+  border-radius: 50%;
+  width: 25%;
+}
