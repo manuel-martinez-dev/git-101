@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 A simple page to understand how GitHub works.
 
